@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathFloat.Generator", "MathFloat.Generator\MathFloat.Generator.csproj", "{19D503F0-DB72-4659-BAB0-3004F760FF43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathFloat", "MathFloat\MathFloat.csproj", "{CAB69D39-34AA-47B0-8145-1E08D9DE7DF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19D503F0-DB72-4659-BAB0-3004F760FF43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19D503F0-DB72-4659-BAB0-3004F760FF43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19D503F0-DB72-4659-BAB0-3004F760FF43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19D503F0-DB72-4659-BAB0-3004F760FF43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAB69D39-34AA-47B0-8145-1E08D9DE7DF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAB69D39-34AA-47B0-8145-1E08D9DE7DF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAB69D39-34AA-47B0-8145-1E08D9DE7DF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAB69D39-34AA-47B0-8145-1E08D9DE7DF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
