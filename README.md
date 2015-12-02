@@ -1,5 +1,8 @@
 # MathFloat
 
+[![Build status](https://ci.appveyor.com/api/projects/status/b192sp8vox65a5t7/branch/master?svg=true)](https://ci.appveyor.com/project/LukasBoersma/mathfloat/branch/master)
+
+
 This is a tiny .NET library with float versions of System.Math methods. MathFloat works with .NET 2.0 or newer.
 
 You can install this library from [Nuget](PM> Install-Package MathFloat):
